@@ -96,30 +96,4 @@ Click **Load Sample Data** in the navbar, or visit:
 http://127.0.0.1:5000/seed
 ```
 
-## Suggested GitHub README Screenshot Ideas
 
-Add screenshots of:
-
-- Dashboard
-- Add asset form
-- Asset detail page
-- Check-out/check-in form
-- Assignment history log
-
-## Resume Bullet Points
-
-You can add this to your resume:
-
-- Built a Flask-based IT asset management system to track equipment inventory, device assignments, check-in/check-out history, and asset status reporting.
-- Designed relational database models using SQLAlchemy to manage assets and audit logs for IT equipment lifecycle tracking.
-- Created a Bootstrap dashboard with inventory metrics for available, assigned, maintenance, and retired assets.
-
-## Future Improvements
-
-- User login and admin roles
-- Barcode or QR code generation
-- CSV export
-- Search and filtering
-- Email alerts for overdue returns
-- Cloud deployment on AWS EC2 or Render
-- PostgreSQL database support
